@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyu:home|Door43 (kyu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyu|d43-kyu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyu/archive/master.zip|d43-kyu.zip]]
+
+**Recent Changes**
+{{changes>ns = kyu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyu|Ethnologue data]]
+
